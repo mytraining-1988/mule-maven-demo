@@ -29,13 +29,13 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment>
-				<muleVersion>${muleversion}</muleVersion>
-				<username>${username}</username>
-				<password>${passowrd}</password>
-				<environment>${env}</environment>
-				<applicationName>${appname}</applicationName>
-				<workers>${workers}</workers>
-				<workerType>${workertype}</workerType>	
+				<muleVersion>4.3.0</muleVersion>
+				<username>cholig</username>
+				<password>Holigi@0911</password>
+				<environment>Sandbox</environment>
+				<applicationName>mule-maven-demo</applicationName>
+				<workers>1</workers>
+				<workerType>Micro</workerType>	
 				<objectStoreV2>true</objectStoreV2>		
 				</cloudHubDeployment>
 				</configuration>
